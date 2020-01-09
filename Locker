@@ -1,0 +1,10 @@
+Do
+msgbox"JUST Petya!",48,"LOL"
+x = inputbox("ВВЕДИ ПАРОЛЬ")
+if (x = "kava1") then
+msgbox"Кросс",64,"Pranton"
+exit do
+else
+msgbox"НЕПРАВИЛЬНО",48,"LOL"
+end if
+loop
